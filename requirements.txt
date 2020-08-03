@@ -1,0 +1,11 @@
+# List of required packages (Dependencies)
+redis
+
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.9
+PyMySQL==0.9.3
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.9
+vk-api==11.8.0
