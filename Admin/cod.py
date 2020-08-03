@@ -2,9 +2,7 @@ import random
 from Connect.Connectbd import get_connection
 from Admin.vkapi import vk, longpoll
 from vk_api.bot_longpoll import VkBotEventType
-from Admin.Add_Anime_bd import add_type_anime, add_studia_anime, add_status_anime
-from Admin.Add_Anime_bd import add_janr_anime, add_box_text_anime, add_picture_anime, add_re_anime
-from Admin.Add_Anime_bd import add_ep_anime, add_box_text_anime_two
+from Admin.Add_Anime_bd import *
 
 
 def box(name):
