@@ -1,6 +1,6 @@
 import vk_api
 import requests
-from other import admin_token, admin_id
+from Admin.other import admin_token, admin_id
 from vk_api.bot_longpoll import VkBotLongPoll
 
 session = requests.Session()
